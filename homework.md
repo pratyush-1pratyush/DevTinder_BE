@@ -19,3 +19,13 @@
 - What is the use of "-g" while npm install
 
 - Difference between caret and tilde ( ^ vs ~ )
+
+- test get,post,put,patch,delete in postman
+
+- Multiple route handlers-play with code
+
+-next()
+
+-next() function and errors along with res.send()
+
+-app.use("/route",rh1,[rh2,rh3],rg4,rh5)
