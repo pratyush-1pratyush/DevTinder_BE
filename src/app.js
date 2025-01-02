@@ -6,7 +6,7 @@ const app = express();
     res.send("user is")
 })*/
 
-/*app.get("/user",(req,res) => {
+app.get("/user",(req,res) => {
     res.send({"name":"pratyush"})
 })
 
@@ -20,7 +20,7 @@ app.patch("/user",(req,res) => {
 
 app.delete("/user",(req,res) => {
     res.send("data deleted succesfully")
-})*/
+})
 
 /*app.use("/test",(req,res) => {
     res.send("Hi this is user")
