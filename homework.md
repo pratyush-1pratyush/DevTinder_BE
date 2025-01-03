@@ -29,3 +29,15 @@
 -next() function and errors along with res.send()
 
 -app.use("/route",rh1,[rh2,rh3],rg4,rh5)
+
+-read about middlewares , why do we need it ?
+
+-how expressJS handles response behind the scenes
+
+- app.use vs app.all
+
+-write a dummy auth middleware for admin
+
+-write a dummy auth middleware for all users route except user/login
+
+-error handling using app.use("/",(err,req,res,next)=>{})
